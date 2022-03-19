@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PyIDE/PyIDE/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/PyIDE/PyIDE/app/src/main/res/layout/activity_code.xml" value="0.16666666666666666" />
+        <entry key="..\:/PyIDE/PyIDE/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/PyIDE/PyIDE/app/src/main/res/layout/activity_splashscreen.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/pyIDE/app/src/main/res/layout/activity_about.xml" value="0.1526268115942029" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/pyIDE/app/src/main/res/layout/activity_code.xml" value="0.22" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/pyIDE/app/src/main/res/layout/activity_cv.xml" value="0.1526268115942029" />
